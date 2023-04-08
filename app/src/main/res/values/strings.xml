@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sorteio Numero</string>
+    <string name="title">Numeros aleatórios\n de 0 a 10</string>
+    <string name="play">jogar</string>
+</resources>
